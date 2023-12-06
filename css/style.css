@@ -1,0 +1,12 @@
+* {
+
+}
+
+
+header nav ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+
+}
